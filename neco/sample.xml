@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<response>
+    <status>0</status>
+    <queueStatus>0</queueStatus><startRow>0</startRow>
+    <endRow>1</endRow>
+    <totalRows>1</totalRows>
+    <data>
+    <record>
+    <customerData>
+    <payoutGroups>
+    <payoutGroup>
+        <createEPAReport>true</createEPAReport>
+        <urgentPayout>false</urgentPayout>
+        <payoutDelayUnit>DAY</payoutDelayUnit>
+        <status>ACTIVE</status>
+        <payoutGroupName>LexCeram WDB EUR</payoutGroupName>
+        <payoutWeekDay>FRIDAY</payoutWeekDay>
+        <exchangeRateSurchargeNum>1</exchangeRateSurchargeNum>
+        <lastUpdatedOn>2015-06-23T17:34:23</lastUpdatedOn>
+        <payoutGroupShortName>LexCeram WDB EUR</payoutGroupShortName>
+        <insertedBy>mathias.grimm</insertedBy>
+        <id>16F65D3719CE11E59DD30013725B0A55</id>
+        <creationDate>2015-06-23T17:34:23</creationDate>
+        <exchangeRateSurchargeUnit>PERCENTIL</exchangeRateSurchargeUnit>
+        <payoutDelayOfReserveNum>6</payoutDelayOfReserveNum>
+        <otherInformation>1012, LexCeram WDB EUR</otherInformation>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <isDefault>true</isDefault>
+        <payoutDelayNum>0</payoutDelayNum>
+        <lastUpdatedBy>mathias.grimm</lastUpdatedBy>
+        <language>GER</language>
+        <settlementBankAccount>15D5AAF319CE11E596030013725B0A55</settlementBankAccount>
+        <settlementFrequency>WEEKLY</settlementFrequency>
+        <payoutCurrency>EUR</payoutCurrency>
+        <payoutDelayOfReserveUnit>DAY</payoutDelayOfReserveUnit>
+    </payoutGroup>
+    </payoutGroups>
+        <salesSegment>09FE04C03E0F11E2AB47D5E304BCA9CE</salesSegment>
+        <accountingId>8004255</accountingId>
+        <street>Buechlberger Str. 46</street>
+        <companyShortName>LexCeram GmbH</companyShortName>
+        <state>BY</state>
+    <settlementBankAccounts>
+    <settlementBankAccount>
+        <bicCode>GENODEF1PA1</bicCode>
+        <usedForDirectDebits>false</usedForDirectDebits>
+        <paymentType>0</paymentType>
+        <bankName>VR Bank Passau eG</bankName>
+        <lastUpdatedOn>2015-06-23T17:34:35</lastUpdatedOn>
+        <routingNumber>74090000</routingNumber>
+        <addressId>217c284d0a8101903a64a1cb5801a60d</addressId>
+        <city>Passau</city>
+        <version>4</version>
+        <country>DE</country>
+        <insertedBy>mathias.grimm</insertedBy>
+        <id>15677FD219CE11E596030013725B0A55</id>
+        <validityDateFrom>2015-06-23</validityDateFrom>
+        <creationDate>2015-06-23T17:34:21</creationDate>
+        <accountNumber>DE88740900000000539139</accountNumber>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <accountHolder>LexCeram GmbH</accountHolder>
+        <accountStatus>ACTIVE</accountStatus>
+        <lastUpdatedBy>mathias.grimm</lastUpdatedBy>
+        <payoutCurrencies>EUR</payoutCurrencies>
+    </settlementBankAccount>
+    </settlementBankAccounts>
+        <city>Hauzenberg</city>
+        <statusId>4</statusId>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a868394405381c301407272b99803b7</id>
+        <inserted>2013-08-12T12:14:15</inserted>
+        <paymentServiceProviderName>Paymill GmbH</paymentServiceProviderName>
+        <merchantType>1</merchantType>
+        <parentGroupName>Wirecard Technologies</parentGroupName>
+        <zip>94051</zip>
+    <merchantAccounts>
+    <merchantAccount>
+        <accountTypeName>Platform Provider</accountTypeName>
+        <street>Buechlberger Str. 46</street>
+        <singleMaAccessRights>false</singleMaAccessRights>
+        <state>BY</state>
+        <companyNo>HRB7391</companyNo>
+        <addressId>8a868394405381c301407274847503c0</addressId>
+    <contacts>
+    <contact>
+        <lastName>Kneidinger</lastName>
+        <phone>08586-9623500</phone>
+        <status>1</status>
+        <merchantShortName>LexCeram GmbH</merchantShortName>
+        <canEditContact>false</canEditContact>
+        <languageName>English</languageName>
+        <id>8a868394405381c301407273bae503bb</id>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <email>pay@lexceram.de</email>
+    <roles>
+    <role>
+        <roleName>Business Contact</roleName>
+        <roleId>4</roleId>
+    </role>
+    <role>
+        <roleName>Invoice Recipient</roleName>
+        <roleId>2013</roleId>
+    </role>
+    <role>
+        <roleName>Settlement Note Recipient</roleName>
+        <roleId>2017</roleId>
+    </role>
+    </roles>
+        <merchantName>LexCeram GmbH</merchantName>
+        <gender>1</gender>
+        <firstName>Harald</firstName>
+        <salutation>1</salutation>
+    </contact>
+    </contacts>
+        <city>Hauzenberg</city>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a868394405381c301407274848303c1</id>
+        <inserted>2013-08-12T12:16:13</inserted>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <description>Handel m. u.a. Wellness Elektronik</description>
+        <processing>F</processing>
+        <accountTypeId>2</accountTypeId>
+        <zip>94051</zip>
+        <lastUpdated>2013-08-12T12:16:13</lastUpdated>
+        <canEditAccount>false</canEditAccount>
+        <accountShortName>LexCeram PP</accountShortName>
+        <url>http://whirlpool-onlineshop.com</url>
+        <country>DE</country>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <accountName>LexCeram GmbH</accountName>
+        <source>PE</source>
+        <publicId>000000316AADC29C</publicId>
+        <vatNumber>DE814988272</vatNumber>
+        <accountStatusId>4</accountStatusId>
+    </merchantAccount>
+    <merchantAccount>
+        <accountTypeName>Platform Merchant</accountTypeName>
+        <partnerAccountId>8a8683953bb297b6013bfb38d90100c0</partnerAccountId>
+        <street>Buechlberger Str. 46</street>
+        <singleMaAccessRights>false</singleMaAccessRights>
+        <state>BY</state>
+        <partnerId>8a8683953bb297b6013bfb2f0cc700b4</partnerId>
+        <companyNo>HRB7391</companyNo>
+        <addressId>8a86839643b8e2b50143be3c6a490012</addressId>
+    <contacts>
+    <contact>
+        <lastName>Kneidinger</lastName>
+        <phone>08586-9623500</phone>
+        <status>1</status>
+        <merchantShortName>LexCeram GmbH</merchantShortName>
+        <canEditContact>false</canEditContact>
+        <languageName>English</languageName>
+        <id>8a868394405381c301407273bae503bb</id>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <email>pay@lexceram.de</email>
+    <roles>
+    <role>
+        <roleName>Business Contact</roleName>
+        <roleId>4</roleId>
+    </role>
+    <role>
+        <roleName>Invoice Recipient</roleName>
+        <roleId>2013</roleId>
+    </role>
+    <role>
+        <roleName>Settlement Note Recipient</roleName>
+        <roleId>2017</roleId>
+    </role>
+    </roles>
+        <merchantName>LexCeram GmbH</merchantName>
+        <gender>1</gender>
+        <firstName>Harald</firstName>
+        <salutation>1</salutation>
+    </contact>
+    </contacts>
+        <city>Hauzenberg</city>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a868394405381c3014072759f4803c5</id>
+        <inserted>2013-08-12T12:17:25</inserted>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <description>Handel m. u.a. Wellness Elektronik</description>
+        <parentGroupName>LexCeram GmbH</parentGroupName>
+        <processing>F</processing>
+        <providerAccountId>8a868394405381c301407274848303c1</providerAccountId>
+        <accountTypeId>3</accountTypeId>
+        <partnerName>Paymill:RES</partnerName>
+        <zip>94051</zip>
+        <mccId>5996</mccId>
+        <lastUpdated>2014-01-23T08:34:27</lastUpdated>
+        <canEditAccount>false</canEditAccount>
+        <accountShortName>whirlpool WDB 3D</accountShortName>
+        <url>http://whirlpool-onlineshop.com</url>
+        <country>DE</country>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <accountName>LexCeram GmbH</accountName>
+        <parentGroupId>[{"name":"LexCeram GmbH","type":"G","identifier":"B4E14E41034811E38C7C0013725B0A55"}]</parentGroupId>
+        <source>PE</source>
+        <publicId>000000316AADC2E5</publicId>
+        <providerId>8a868394405381c301407272b99803b7</providerId>
+        <vatNumber>DE814988272</vatNumber>
+        <accountStatusId>4</accountStatusId>
+    </merchantAccount>
+    <merchantAccount>
+        <accountTypeName>Platform Merchant</accountTypeName>
+        <partnerAccountId>8a8683953bb297b6013bfb38d90100c0</partnerAccountId>
+        <street>Buechlberger Str. 46</street>
+        <singleMaAccessRights>false</singleMaAccessRights>
+        <state>BY</state>
+        <partnerId>8a8683953bb297b6013bfb2f0cc700b4</partnerId>
+        <companyNo>HRB7391</companyNo>
+        <addressId>8a86839643b8e2b50143be3c8b710013</addressId>
+    <contacts>
+    <contact>
+        <lastName>Kneidinger</lastName>
+        <phone>08586-9623500</phone>
+        <status>1</status>
+        <merchantShortName>LexCeram GmbH</merchantShortName>
+        <canEditContact>false</canEditContact>
+        <languageName>English</languageName>
+        <id>8a868394405381c301407273bae503bb</id>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <email>pay@lexceram.de</email>
+    <roles>
+    <role>
+        <roleName>Business Contact</roleName>
+        <roleId>4</roleId>
+    </role>
+    <role>
+        <roleName>Invoice Recipient</roleName>
+        <roleId>2013</roleId>
+    </role>
+    <role>
+        <roleName>Settlement Note Recipient</roleName>
+        <roleId>2017</roleId>
+    </role>
+    </roles>
+        <merchantName>LexCeram GmbH</merchantName>
+        <gender>1</gender>
+        <firstName>Harald</firstName>
+        <salutation>1</salutation>
+    </contact>
+    </contacts>
+        <city>Hauzenberg</city>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a868394405381c30140727666dc03c8</id>
+        <inserted>2013-08-12T12:18:16</inserted>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <description>Handel m. u.a. Wellness Elektronik</description>
+        <parentGroupName>LexCeram GmbH</parentGroupName>
+        <processing>F</processing>
+        <providerAccountId>8a868394405381c301407274848303c1</providerAccountId>
+        <accountTypeId>3</accountTypeId>
+        <partnerName>Paymill:RES</partnerName>
+        <zip>94051</zip>
+        <mccId>5996</mccId>
+        <lastUpdated>2014-01-23T08:34:35</lastUpdated>
+        <canEditAccount>false</canEditAccount>
+        <accountShortName>whirlpool WDB</accountShortName>
+        <url>http://whirlpool-onlineshop.com</url>
+        <country>DE</country>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <accountName>LexCeram GmbH</accountName>
+        <parentGroupId>[{"name":"LexCeram GmbH","type":"G","identifier":"B4E14E41034811E38C7C0013725B0A55"}]</parentGroupId>
+        <source>PE</source>
+        <publicId>000000316AADC319</publicId>
+        <providerId>8a868394405381c301407272b99803b7</providerId>
+        <vatNumber>DE814988272</vatNumber>
+        <accountStatusId>7</accountStatusId>
+    </merchantAccount>
+    <merchantAccount>
+        <accountTypeName>Platform Merchant</accountTypeName>
+        <partnerAccountId>8a8683953bb297b6013bfb38d90100c0</partnerAccountId>
+        <street>Buechlberger Str. 46</street>
+        <singleMaAccessRights>false</singleMaAccessRights>
+        <state>BY</state>
+        <partnerId>8a8683953bb297b6013bfb2f0cc700b4</partnerId>
+        <companyNo>HRB7391</companyNo>
+        <addressId>8a86839643b8e2b50143be3d13070014</addressId>
+    <contacts>
+    <contact>
+        <lastName>Kneidinger</lastName>
+        <phone>08586-9623500</phone>
+        <status>1</status>
+        <merchantShortName>LexCeram GmbH</merchantShortName>
+        <canEditContact>false</canEditContact>
+        <languageName>English</languageName>
+        <id>8a868394405381c301407273bae503bb</id>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <email>pay@lexceram.de</email>
+    <roles>
+    <role>
+        <roleName>Business Contact</roleName>
+        <roleId>4</roleId>
+    </role>
+    <role>
+        <roleName>Invoice Recipient</roleName>
+        <roleId>2013</roleId>
+    </role>
+    <role>
+        <roleName>Settlement Note Recipient</roleName>
+        <roleId>2017</roleId>
+    </role>
+    </roles>
+        <merchantName>LexCeram GmbH</merchantName>
+        <gender>1</gender>
+        <firstName>Harald</firstName>
+        <salutation>1</salutation>
+    </contact>
+    </contacts>
+        <city>Hauzenberg</city>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a86839643b8e2b50143be3d13120015</id>
+        <inserted>2014-01-23T08:35:10</inserted>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <description>Handel m. u.a. Wellness Elektronik</description>
+        <parentGroupName>LexCeram GmbH</parentGroupName>
+        <processing>F</processing>
+        <providerAccountId>8a868394405381c301407274848303c1</providerAccountId>
+        <accountTypeId>3</accountTypeId>
+        <partnerName>Paymill:RES</partnerName>
+        <zip>94051</zip>
+        <mccId>5996</mccId>
+        <lastUpdated>2014-01-23T08:35:11</lastUpdated>
+        <canEditAccount>false</canEditAccount>
+        <accountShortName>LED Billig WDB</accountShortName>
+        <url>http://led-billig.com/</url>
+        <country>DE</country>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <accountName>LexCeram GmbH</accountName>
+        <parentGroupId>[{"name":"LexCeram GmbH","type":"G","identifier":"B4E14E41034811E38C7C0013725B0A55"}]</parentGroupId>
+        <source>PE</source>
+        <publicId>000000316B85D611</publicId>
+        <providerId>8a868394405381c301407272b99803b7</providerId>
+        <vatNumber>DE814988272</vatNumber>
+        <accountStatusId>4</accountStatusId>
+    </merchantAccount>
+    <merchantAccount>
+        <accountTypeName>Platform Merchant</accountTypeName>
+        <partnerAccountId>8a8683953bb297b6013bfb38d90100c0</partnerAccountId>
+        <street>Buechlberger Str. 46</street>
+        <singleMaAccessRights>false</singleMaAccessRights>
+        <state>BY</state>
+        <partnerId>8a8683953bb297b6013bfb2f0cc700b4</partnerId>
+        <companyNo>HRB7391</companyNo>
+        <addressId>8a86839643b8e2b50143be43d69b001a</addressId>
+    <contacts>
+    <contact>
+        <lastName>Kneidinger</lastName>
+        <phone>08586-9623500</phone>
+        <status>1</status>
+        <merchantShortName>LexCeram GmbH</merchantShortName>
+        <canEditContact>false</canEditContact>
+        <languageName>English</languageName>
+        <id>8a868394405381c301407273bae503bb</id>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <email>pay@lexceram.de</email>
+    <roles>
+    <role>
+        <roleName>Business Contact</roleName>
+        <roleId>4</roleId>
+    </role>
+    <role>
+        <roleName>Invoice Recipient</roleName>
+        <roleId>2013</roleId>
+    </role>
+    <role>
+        <roleName>Settlement Note Recipient</roleName>
+        <roleId>2017</roleId>
+    </role>
+    </roles>
+        <merchantName>LexCeram GmbH</merchantName>
+        <gender>1</gender>
+        <firstName>Harald</firstName>
+        <salutation>1</salutation>
+    </contact>
+    </contacts>
+        <city>Hauzenberg</city>
+        <insertedBy>marcel.schuett</insertedBy>
+        <id>8a86839643b8e2b50143be3d681b0018</id>
+        <inserted>2014-01-23T08:35:31</inserted>
+        <customerId>8a868394405381c301407272b99803b7</customerId>
+        <description>Handel m. u.a. Wellness Elektronik</description>
+        <parentGroupName>LexCeram GmbH</parentGroupName>
+        <processing>F</processing>
+        <providerAccountId>8a868394405381c301407274848303c1</providerAccountId>
+        <accountTypeId>3</accountTypeId>
+        <partnerName>Paymill:RES</partnerName>
+        <zip>94051</zip>
+        <mccId>5996</mccId>
+        <lastUpdated>2014-01-23T08:42:33</lastUpdated>
+        <canEditAccount>false</canEditAccount>
+        <accountShortName>LED Billig WDB 3D</accountShortName>
+        <url>http://led-billig.com/</url>
+        <country>DE</country>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <accountName>LexCeram GmbH</accountName>
+        <parentGroupId>[{"name":"LexCeram GmbH","type":"G","identifier":"B4E14E41034811E38C7C0013725B0A55"}]</parentGroupId>
+        <source>PE</source>
+        <publicId>000000316B85D628</publicId>
+        <providerId>8a868394405381c301407272b99803b7</providerId>
+        <vatNumber>DE814988272</vatNumber>
+        <accountStatusId>4</accountStatusId>
+    </merchantAccount>
+    </merchantAccounts>
+        <countryCode>DE</countryCode>
+        <lastUpdated>2014-01-23T08:35:32</lastUpdated>
+        <companyName>LexCeram GmbH</companyName>
+        <url>http://whirlpool-onlineshop.com</url>
+        <accountManager>DE3F71557987B047E040070A20090F29</accountManager>
+        <country>DE</country>
+        <accountManagerName>Marielle Aigner</accountManagerName>
+        <groupId>B4E14E41034811E38C7C0013725B0A55</groupId>
+        <parentGroupId>15D42063172011DFB7D7CB18AE5E13E2</parentGroupId>
+        <paymentServiceProvider>F249AF7ABEB8B602E040070A230960BB</paymentServiceProvider>
+        <publicId>17416</publicId>
+        <vatNumber>DE814988272</vatNumber>
+    </customerData>
+    </record>
+    </data>
+</response>
