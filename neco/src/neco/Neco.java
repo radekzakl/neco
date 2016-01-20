@@ -13,7 +13,7 @@ public class Neco {
 
 	public static void main(String[] args) {
 	
-		//Pokus upravit	podruhe
+		//Pokus upravit	podruhe 2
 		
 		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 		Calendar cal = Calendar.getInstance();
