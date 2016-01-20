@@ -13,6 +13,8 @@ public class Neco {
 
 	public static void main(String[] args) {
 	
+		//Pokus upravit	
+		
 		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 		Calendar cal = Calendar.getInstance();
 		System.out.println(dateFormat.format(cal.getTime())); //2014/08/06 16:00:22
